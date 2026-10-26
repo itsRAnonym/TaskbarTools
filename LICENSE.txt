@@ -1,0 +1,18 @@
+NetSpeedTaskbar Freeware License
+
+Copyright (c) 2026 RAnonym. All rights reserved.
+
+Permission is granted to use this software, free of charge, for personal and
+commercial purposes, and to redistribute the unmodified release archive free of
+charge, provided this license file is kept with it.
+
+You may NOT: sell the software; modify it or distribute modified versions;
+decompile, disassemble or otherwise reverse engineer it, except to the extent
+that applicable law expressly permits despite this restriction; or remove or
+alter copyright notices.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF IT.
